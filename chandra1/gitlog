@@ -1,0 +1,17 @@
+git log
+git log -n
+git log --oneline
+git log --oneline -n
+git log --author =name
+git log --author =name -n
+git log --author =name --oneline
+git log --author =name --oneline -n
+git log --since =yy-mm-dd
+or
+git log --after =yy-mm-dd
+git log --until =yy-mm-dd
+or
+git log --after =yy-mm-dd
+git log --since =yy-mm-dd--until =yy-mm-dd
+git log --grep "lable"
+git log -- file/dir
