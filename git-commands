@@ -57,7 +57,7 @@ git status
 git add .
 git commit -m "label"
 git push
-
+Good morning all, welcome to DevOps World!
 
 
 
