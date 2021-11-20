@@ -19,25 +19,25 @@ git show cid
 touch file2 file3 file4 file5
 git status
 git add file2 file3 file4 file5
-or
+ofdsjfkjdskfkdsfr
 git add .
 or
 git add *
-or
+orfjdsjfsdkjf
 git add -A
 git status
 git commit -m "label"
 git log
-git show cid
+git show cidkfdsfkd
 ----------------------------------
-git clone https://github.com/polarapu/batch73.git
+git clone https://gjfjdsfksklflsf;ithub.com/polarapu/batch73.git
 ls
 cd batch73
-touch file1
+touch file1jfdsjf
 git status
 git add file1
-git status
-git commit -m "label" file1
+git statushfdhfj
+git commit -m "lfhsjfjjfabel" file1
 git status
 git log
 git push
@@ -56,13 +56,15 @@ rm file-name
 git status
 git add .
 git commit -m "label"
-git push
-Hello all test data from prasad.
+git pushfjasjfjf
+fnsajfjf
+nffjff
+Hello djjdjdall test data from prasad.
 Sample line1
 Good morning all, welcome to DevOps World!
 
 
-
+jsjfkfkf
 
 
 
